@@ -1,4 +1,4 @@
-package ua.com.alevel.nix.pavlohnatenko.module1;
+package ua.com.alevel.nix.pavlohnatenko.module1.level1task1;
 
 import org.junit.jupiter.api.Test;
 
